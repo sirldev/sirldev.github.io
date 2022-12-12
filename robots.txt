@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sirldev.github.io/sitemap-index.xml
+Host: https://sirldev.github.io
