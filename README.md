@@ -158,3 +158,10 @@ You can customize your own gatsby-starter-hoodie by referring to the following f
     ├── templates // post components are here
     └── utils
 ```
+
+## 8. How To Run And Update
+```
+# 우선 Terminal을 Rosetta로 켠다.
+nvm use lts/fermium
+npm run deploy-gh
+```
